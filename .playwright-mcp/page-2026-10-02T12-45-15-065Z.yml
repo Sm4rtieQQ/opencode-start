@@ -1,0 +1,199 @@
+- generic [active] [ref=e1]:
+  - dialog [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - heading "Beheer cookie toestemming" [level=4] [ref=e5]
+        - button [ref=e6] [cursor=pointer]
+      - generic [ref=e9]: Wij gebruiken cookies om onze website en onze service te optimaliseren.
+      - generic [ref=e11]:
+        - button "Cookies accepteren" [ref=e12] [cursor=pointer]
+        - button "Weigeren" [ref=e13] [cursor=pointer]
+        - button "Bekijk voorkeuren" [ref=e14] [cursor=pointer]
+  - generic [ref=e15]:
+    - banner [ref=e16]:
+      - navigation [ref=e17]:
+        - link [ref=e18] [cursor=pointer]:
+          - /url: https://script.nl
+        - generic [ref=e22]:
+          - list [ref=e23]:
+            - listitem [ref=e24]:
+              - link "Informatie voor" [ref=e25] [cursor=pointer]:
+                - /url: "#"
+              - button [ref=e26] [cursor=pointer]
+            - listitem [ref=e27]:
+              - link "Over Script" [ref=e28] [cursor=pointer]:
+                - /url: "#"
+              - button [ref=e29] [cursor=pointer]
+            - listitem [ref=e30]:
+              - link "Verhalen" [ref=e31] [cursor=pointer]:
+                - /url: https://script.nl/verhalen/
+            - listitem [ref=e32]:
+              - link "Contact" [ref=e33] [cursor=pointer]:
+                - /url: https://script.nl/contact/
+            - listitem [ref=e34]:
+              - link "Kennismaken" [ref=e35] [cursor=pointer]:
+                - /url: https://script.nl/interesseformulier/
+          - link [ref=e36] [cursor=pointer]:
+            - /url: /?s=
+    - main [ref=e37]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - heading "Full-Stack People Development" [level=1] [ref=e42]
+          - paragraph [ref=e44]: ICT leer- en werktrajecten voor mensen met een vorm van autisme of hoogbegaafdheid.
+          - group [ref=e45] [cursor=pointer]
+        - img "ICT, werk en autisme" [ref=e51]
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - heading "ICT verbindt alles met iedereen en iedereen met elkaar." [level=2] [ref=e55]
+          - list [ref=e56]:
+            - listitem [ref=e57]: ICT
+            - listitem [ref=e58]: Autisme
+        - paragraph [ref=e60]: "Het motiveert enorm als je werk kunt doen wat je leuk vindt. Of nog beter: waar je van nature goed in bent. Daarom gebruiken we bij Script juist de pluspunten van autisme en verbinden deze met de skills die een programmeur nodig heeft. Dus maak werk van je interesse in computers, programmeren of ICT en vergroot je kansen op het vinden van een baan. Geen aangepast werk, maar gewoon écht werk!"
+      - region [ref=e62]:
+        - generic [ref=e63]:
+          - generic:
+            - button "Go to last slide" [ref=e64] [cursor=pointer]
+            - button "Next slide" [ref=e66] [cursor=pointer]
+        - generic [ref=e70]:
+          - group [aria-hidden] [ref=e71]
+          - group [aria-hidden] [ref=e75]
+          - group "1 of 13" [ref=e79]:
+            - img "ICT, werk en autisme" [ref=e82]
+          - group [aria-hidden] [ref=e83]
+          - group [aria-hidden] [ref=e87]
+          - group [aria-hidden] [ref=e91]
+          - group [aria-hidden] [ref=e95]
+          - group [aria-hidden] [ref=e99]
+          - group [aria-hidden] [ref=e103]
+          - group [aria-hidden] [ref=e107]
+          - group [aria-hidden] [ref=e111]
+          - group [aria-hidden] [ref=e115]
+          - group [aria-hidden] [ref=e119]
+          - group [aria-hidden] [ref=e123]
+          - group [aria-hidden] [ref=e127]
+          - group [aria-hidden] [ref=e131]
+          - group [aria-hidden] [ref=e135]
+    - contentinfo [ref=e139]:
+      - generic [ref=e141]:
+        - list [ref=e142]:
+          - listitem [ref=e143]:
+            - heading "Ik wil developer worden" [level=2] [ref=e145]
+            - link "Lees meer" [ref=e146] [cursor=pointer]:
+              - /url: https://script.nl/ik-wil-mij-ontwikkelen-als-developer/
+          - listitem [ref=e147]:
+            - heading "Ik zoek informatie voor mijn cliënt" [level=2] [ref=e149]
+            - link "Lees meer" [ref=e150] [cursor=pointer]:
+              - /url: https://script.nl/ik-ben-een-zorg-professional/
+          - listitem [ref=e151]:
+            - heading "Ik wil kennismaken" [level=2] [ref=e153]
+            - link "Lees meer" [ref=e154] [cursor=pointer]:
+              - /url: https://script.nl/interesseformulier/
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - link "Dit is Script" [ref=e157] [cursor=pointer]:
+              - /url: https://script.nl/over-script/
+          - listitem [ref=e158]:
+            - link "Contact opnemen" [ref=e159] [cursor=pointer]:
+              - /url: https://script.nl/contact/
+      - generic [ref=e161]:
+        - heading "Ik wil graag kennismaken" [level=2] [ref=e162]
+        - link "Neem contact op" [ref=e163] [cursor=pointer]:
+          - /url: https://script.nl/contact/
+      - list [ref=e165]:
+        - listitem [ref=e166]:
+          - heading "Werken / Leren" [level=3] [ref=e167]
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Informatie over Script" [ref=e170] [cursor=pointer]:
+                - /url: https://script.nl/ik-wil-mij-ontwikkelen-als-developer/
+            - listitem [ref=e171]:
+              - link "Financiering" [ref=e172] [cursor=pointer]:
+                - /url: https://script.nl/financiering/
+            - listitem [ref=e173]:
+              - link "Interesse in Script" [ref=e174] [cursor=pointer]:
+                - /url: https://script.nl/interesseformulier/
+            - listitem [ref=e175]:
+              - link "Wachtlijst informatie" [ref=e176] [cursor=pointer]:
+                - /url: "#wachtlijst"
+        - listitem [ref=e177]:
+          - heading "Voor zorgprofessionals" [level=3] [ref=e178]
+          - list [ref=e179]:
+            - listitem [ref=e180]:
+              - link "Ons zorgaanbod" [ref=e181] [cursor=pointer]:
+                - /url: https://script.nl/ik-ben-een-zorg-professional/
+            - listitem [ref=e182]:
+              - link "Verhalen" [ref=e183] [cursor=pointer]:
+                - /url: https://script.nl/verhalen/
+            - listitem [ref=e184]:
+              - link "Whitepaper werk en autisme" [ref=e185] [cursor=pointer]:
+                - /url: https://script.nl/whitepaper-werk-en-autisme/
+        - listitem [ref=e186]:
+          - heading "Voor IT professionals" [level=3] [ref=e187]
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - link "Ik zoek IT-professionals" [ref=e190] [cursor=pointer]:
+                - /url: https://script.nl/ik-zoek-it-professionals/
+            - listitem [ref=e191]:
+              - link "Aanstormend talent" [ref=e192] [cursor=pointer]:
+                - /url: https://script.nl/aanstormend-talent/
+            - listitem [ref=e193]:
+              - link "Verhaal archief" [ref=e194] [cursor=pointer]:
+                - /url: https://script.nl/verhalen/
+        - listitem [ref=e195]:
+          - heading "Informatie" [level=3] [ref=e196]
+          - list [ref=e197]:
+            - listitem [ref=e198]:
+              - link "Over Script" [ref=e199] [cursor=pointer]:
+                - /url: https://script.nl/over-script/
+            - listitem [ref=e200]:
+              - link "Wij vinden persoonlijk contact belangrijk" [ref=e201] [cursor=pointer]:
+                - /url: https://script.nl/contact/
+            - listitem [ref=e202]:
+              - link "Route" [ref=e203] [cursor=pointer]:
+                - /url: https://script.nl/route/
+            - listitem [ref=e204]:
+              - link "Veelgestelde vragen" [ref=e205] [cursor=pointer]:
+                - /url: https://script.nl/veelgestelde-vragen/
+            - listitem [ref=e206]:
+              - link "Vacatures" [ref=e207] [cursor=pointer]:
+                - /url: https://script.nl/vacatures/
+      - generic [ref=e209]:
+        - img "Whitepaper autisme en werk" [ref=e211]
+        - generic [ref=e212]:
+          - heading "Lees onze whitepaper 'Werk en autisme'" [level=2] [ref=e213]
+          - link "Nu downloaden" [ref=e214] [cursor=pointer]:
+            - /url: https://script.nl/whitepaper-werk-en-autisme/
+      - generic [ref=e216]:
+        - generic [ref=e217]:
+          - heading "Volg ons" [level=3] [ref=e218]
+          - list [ref=e219]:
+            - listitem [ref=e220]:
+              - link [ref=e221] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/script-ict
+            - listitem [ref=e224]:
+              - link [ref=e225] [cursor=pointer]:
+                - /url: https://www.instagram.com/script.ict/
+        - link "website door Back to code" [ref=e228] [cursor=pointer]:
+          - /url: https://backtocode.nl
+          - generic [ref=e229]:
+            - text: website door
+            - generic [ref=e230]: Back to code
+        - link [ref=e245] [cursor=pointer]:
+          - /url: https://script.nl/
+      - generic [ref=e247]:
+        - paragraph [ref=e248]: © 2016 - 2026 Script B.V.
+        - list [ref=e249]:
+          - listitem [ref=e250]:
+            - link "Algemene voorwaarden" [ref=e251] [cursor=pointer]:
+              - /url: https://script.nl/algemene-voorwaarden-script/
+          - listitem [ref=e252]:
+            - link "Privacy & Cookies" [ref=e253] [cursor=pointer]:
+              - /url: https://script.nl/privacy-cookies/
+          - listitem [ref=e254]:
+            - link "Klachtenregeling" [ref=e255] [cursor=pointer]:
+              - /url: https://script.nl/klachtenregeling/
+        - list [ref=e256]:
+          - listitem [ref=e257]
+          - listitem [ref=e259]
+          - listitem [ref=e261]
+          - listitem [ref=e263]

@@ -1,0 +1,4 @@
+- generic [active] [ref=e1]:
+  - heading "Contact" [level=1] [ref=e2]
+  - paragraph [ref=e3]: Neem contact met ons op via info@example.com.
+  - contentinfo [ref=e4]: Gemaakt met Opencode
